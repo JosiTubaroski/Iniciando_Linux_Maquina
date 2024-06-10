@@ -50,9 +50,15 @@ Shell Interativo: Por padrão, o comando padrão (entrypoint) da imagem ubuntu �
 
 ### Navegando no Linux
 
-1) ls
+1) ls (Listando)
 
 <img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/05_Comando_ls.png">
+
+2) Acessando o diretório etc
+
+<img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/06_Diretorio_ETC.png">
+
+   
    
 
 
