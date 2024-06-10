@@ -35,6 +35,9 @@ Shell Interativo: Por padrão, o comando padrão (entrypoint) da imagem ubuntu �
 <img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/1_Primeiro_Comando.png">
 
 3) Utilizando o comando apt update para fazer download dos pacotes mais recentes
+
+<img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/2_Apt_Update.png">
+
    
    
 
