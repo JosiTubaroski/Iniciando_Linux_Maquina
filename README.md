@@ -42,6 +42,12 @@ Shell Interativo: Por padrão, o comando padrão (entrypoint) da imagem ubuntu �
 
 <img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/3_Instalando_NovoPacote.png">
 
+### Sistema de Arquivos do Linux
+
+<img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/04_Estrutura_Arquivos_Linux.png">
+
+
+
    
    
 
