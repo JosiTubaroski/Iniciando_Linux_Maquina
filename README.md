@@ -65,7 +65,11 @@ Shell Interativo: Por padrão, o comando padrão (entrypoint) da imagem ubuntu �
 ### Criando arquivos e diretorios
 
 <img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/08_Criar_Diretorio.png">   
-   
+
+01 - Criando e removendo arquivos 
+
+<img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/09_Criando_Arquivos.png">   
+
    
 
 
