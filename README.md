@@ -68,7 +68,13 @@ Shell Interativo: Por padrão, o comando padrão (entrypoint) da imagem ubuntu �
 
 01 - Criando e removendo arquivos 
 
+
+
 <img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/09_Criando_Arquivos.png">   
+
+
+
+
 
    
 
