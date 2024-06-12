@@ -63,7 +63,8 @@ Shell Interativo: Por padrão, o comando padrão (entrypoint) da imagem ubuntu �
 <img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/07_Dentro_Diretorio_ETC.png">
 
 ### Criando arquivos e diretorios
-   
+
+<img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/08_Criar_Diretorio.png">   
    
    
 
