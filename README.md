@@ -76,6 +76,11 @@ Executando multiplos comandos
 
 <img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/10_Executando_Multiplos_Comandos.png">  
 
+Gerenciando Processos
+
+<img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/11_Comando_Verifica_Processos.png">  
+
+
 
 
 
