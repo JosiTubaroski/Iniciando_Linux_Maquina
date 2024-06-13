@@ -84,6 +84,11 @@ Criando Usuários
 
 <img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/12_Criando_Usuario.png">  
 
+Criando Grupos
+
+<img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/13_Criando_Grupos.png">  
+
+
 
 
 
