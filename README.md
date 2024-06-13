@@ -80,6 +80,12 @@ Gerenciando Processos
 
 <img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/11_Comando_Verifica_Processos.png">  
 
+Criando Usuários
+
+<img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/12_Criando_Usuario.png">  
+
+
+
 
 
 
