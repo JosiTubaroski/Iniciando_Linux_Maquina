@@ -72,6 +72,10 @@ Shell Interativo: Por padrão, o comando padrão (entrypoint) da imagem ubuntu �
 
 <img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/09_Criando_Arquivos.png">   
 
+Executando multiplos comandos
+
+<img src="https://github.com/JosiTubaroski/Iniciando_Linux_Maquina/blob/main/Img/10_Executando_Multiplos_Comandos.png">  
+
 
 
 
